@@ -1,5 +1,12 @@
 # @backstage/cli
 
+## 0.10.5
+
+### Patch Changes
+
+- 37123b4851: Bump `css-loader` from `5.2.6` to `6.5.1`
+- 4ce51ab0f1: Internal refactor of the `react-use` imports to use `react-use/lib/*` instead.
+
 ## 0.10.4
 
 ### Patch Changes

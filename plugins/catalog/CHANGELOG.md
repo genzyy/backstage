@@ -1,5 +1,15 @@
 # @backstage/plugin-catalog
 
+## 0.7.7
+
+### Patch Changes
+
+- 4ce51ab0f1: Internal refactor of the `react-use` imports to use `react-use/lib/*` instead.
+- 11b81683a9: Support customizing index page layouts via outlets
+- Updated dependencies
+  - @backstage/plugin-catalog-react@0.6.10
+  - @backstage/core-components@0.8.3
+
 ## 0.7.6
 
 ### Patch Changes

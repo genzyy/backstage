@@ -1,5 +1,11 @@
 # @backstage/plugin-permission-react
 
+## 0.2.1
+
+### Patch Changes
+
+- 4ce51ab0f1: Internal refactor of the `react-use` imports to use `react-use/lib/*` instead.
+
 ## 0.2.0
 
 ### Minor Changes

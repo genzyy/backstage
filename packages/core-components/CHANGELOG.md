@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.8.3
+
+### Patch Changes
+
+- 4ce51ab0f1: Internal refactor of the `react-use` imports to use `react-use/lib/*` instead.
+
 ## 0.8.2
 
 ### Patch Changes

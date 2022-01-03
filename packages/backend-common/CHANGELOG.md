@@ -1,5 +1,11 @@
 # @backstage/backend-common
 
+## 0.10.2
+
+### Patch Changes
+
+- eacc582473: Reverted the default CSP configuration to include `'unsafe-eval'` again, which was mistakenly removed in the previous version.
+
 ## 0.10.1
 
 ### Patch Changes

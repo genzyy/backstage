@@ -1,5 +1,16 @@
 # @backstage/plugin-bazaar
 
+## 0.1.8
+
+### Patch Changes
+
+- 4ce51ab0f1: Internal refactor of the `react-use` imports to use `react-use/lib/*` instead.
+- Updated dependencies
+  - @backstage/cli@0.10.5
+  - @backstage/plugin-catalog-react@0.6.10
+  - @backstage/core-components@0.8.3
+  - @backstage/plugin-catalog@0.7.7
+
 ## 0.1.7
 
 ### Patch Changes

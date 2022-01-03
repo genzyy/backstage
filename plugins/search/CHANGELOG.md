@@ -1,5 +1,16 @@
 # @backstage/plugin-search
 
+## 0.5.4
+
+### Patch Changes
+
+- e05b9115aa: Fix missing search context issue with `HomePageSearchBar`
+- 4ce51ab0f1: Internal refactor of the `react-use` imports to use `react-use/lib/*` instead.
+- 54ef743aa4: Introduce a `<SearchType.Tabs />` variant to display tabs for selecting search result types.
+- Updated dependencies
+  - @backstage/plugin-catalog-react@0.6.10
+  - @backstage/core-components@0.8.3
+
 ## 0.5.3
 
 ### Patch Changes
